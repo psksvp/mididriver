@@ -6,3 +6,5 @@ This is a repackaged of https://github.com/billthefarmer/mididriver as <processi
 
 Clone this repo into directory Processing/libraries. If you don't know where the directory is, read here <https://processing.org/discourse/beta/num_1242005416.html>
 
+The API documentation is at <https://github.com/billthefarmer/mididriver>
+
